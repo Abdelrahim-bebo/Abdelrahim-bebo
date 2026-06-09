@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1KIPtPgb4_ARMNfCjM0c83cnc2mzt8wah/view?usp=sharing"><img src="https://img.shields.io/badge/My%20CV-003F3B?style=for-the-badge&logoColor=white" height="28px" /></a>
-  <a href="mailto:abdelrahimbebo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28px" /></a>
+  <a href="mailto:abdelrahimbadr02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28px" /></a>
   <a href="https://www.linkedin.com/in/abdelrahim-badr-38886726b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28px" /></a>
 </p>
 
@@ -24,6 +24,8 @@
   <strong>Containerization & Orchestration</strong><br>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
+  <img src="https://img.shields.io/badge/nexus-1B1536?style=for-the-badge&logo=sonatype&logoColor=white">
 </p>
 
 <p align="center">
