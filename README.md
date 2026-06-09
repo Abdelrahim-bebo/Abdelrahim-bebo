@@ -4,25 +4,30 @@
 * Building my DevOps skillset (CI/CD, AWS, Docker, Linux)
 * Automating infrastructure using Ansible & Terraform
 * Improving my cloud architecture skills on AWS
+  
 **👯 I’m looking to collaborate on:**
 * DevOps / Cloud projects
 * Automation scripts (Bash/Python)
 * Open-source tools related to CI/CD or system monitoring
+  
 **🤝 I’m looking for help with:**
 * Kubernetes advanced topics
 * Designing scalable cloud environments
 * Contributing to DevOps open-source projects
+
 **🌱 I’m currently learning:**
 * AWS Cloud (VPC, IAM, EC2, CloudWatch)
 * Docker & Kubernetes
 * Infrastructure as Code (Terraform)
 * Linux system administration & automation
+
 **💬 Ask me about:**
 * DevOps practices & CI/CD pipelines
 * Linux, Networking, Virtualization
 * Bash scripting
 * AWS Cloud basics
 * Embedded systems & BeagleBone AI-64
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrahim-badr-38886726b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahimbebo@gmail.com) 
 # 💻 Tech Stack:
